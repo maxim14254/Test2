@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zU74712RuVjlMnKLL3TmKzUmBHL+zMzEm0vNvbqf8iOWlay06+I9IjEAN2Cp9vvsx2kxkRD19ThcPGijfNvT8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim\\Desktop\\Жопа\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\epplus\\5.4.2\\epplus.5.4.2.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
